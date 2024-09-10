@@ -1,4 +1,5 @@
-Urban Synapse enhances interdepartmental communication and collaboration within urban governance,
+                                      URBAN SYNAPSE
+• Urban Synapse enhances interdepartmental communication and collaboration within urban governance,
 facilitating seamless data and resource sharing across multiple agencies.
 • Developed a platform to streamline urban governance by improving coordination among multiple agencies.
 • Enabled data and resource sharing, including technical expertise and project updates, across departments.
